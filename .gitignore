@@ -20,3 +20,8 @@ web-build/
 windows
 mac
 linux
+
+#ignoring windows, mac and linux folders
+windows
+mac
+linux
