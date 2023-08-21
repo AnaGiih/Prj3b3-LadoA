@@ -8,6 +8,7 @@ input1: '',
  input3: '',
  input4: '',
  input5: '',
+ input6: '',
 
   });
 
